@@ -1,0 +1,7 @@
+# o pacote fica nos Releases, nao no repositorio
+*.zip
+*.dados
+*.exe
+*.dll
+*.o
+__pycache__/

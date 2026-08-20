@@ -1,0 +1,132 @@
+============================================================
+  TRADUCAO PT-BR - NINJA GAIDEN SIGMA (Master Collection)
+  versao 3 - texto + menu + acentuacao de verdade
+  Windows
+============================================================
+
+
+O QUE ESTA TRADUZIDO
+--------------------
+  - Historia, cutscenes e todo o dialogo
+  - Itens, descricoes, tutoriais e pergaminhos de tecnica
+  - Nomes de salas, portas, placas, diarios e mensagens
+  - Falas de NPC, loja e mensagens de porta/item
+  - MENU COMPLETO: opcoes, pausa, missoes, classificacao, salvar
+  - Tela de titulo e cabecalhos (que sao imagem, nao texto)
+  - Til de verdade: "Dragao" agora sai com o ~ no lugar, e nao
+    mais com circunflexo. Tambem tem o "o" e o "a" ordinais.
+
+
+COMO INSTALAR
+-------------
+  Sao tres passos, todos feitos uma vez so.
+
+  PASSO 1 - o texto
+
+    1. Feche o jogo e a Steam.
+    2. Escolha uma pasta FIXA para deixar esta traducao (por
+       exemplo C:\Traducao_NG) e mova os arquivos para la. O
+       passo 2 vai apontar para esse lugar, entao ele nao pode
+       mudar depois.
+    3. De dois cliques em  Instalar_Traducao_PTBR.exe
+    4. Escolha a opcao [1] Instalar.
+
+    Se ele nao achar o jogo sozinho, arraste o arquivo "databin"
+    (fica na pasta do jogo, dentro da pasta "databin") para cima
+    do instalador.
+
+  PASSO 2 - o menu
+
+    O menu e escrito na memoria do jogo, entao precisa ser
+    aplicado toda vez que voce jogar. A Steam faz isso sozinha:
+
+    1. Na Steam, botao direito no jogo > Propriedades
+    2. Na aba Geral, ache "Opcoes de inicializacao"
+    3. Cole a linha abaixo, trocando o caminho pelo lugar onde
+       voce deixou os arquivos. As aspas fazem parte:
+
+         "C:\Traducao_NG\NG_Tradutor_PTBR.exe" %command%
+
+    4. Feche a janela de propriedades.
+
+    Pronto, e so isso. Daqui pra frente voce abre o jogo pela
+    Steam normalmente e a traducao entra sozinha.
+
+    O que voce vai ver: uma janela preta abre junto com o jogo,
+    escreve "918 de 918 textos" e fica minimizada na barra de
+    tarefas. Ela fecha sozinha quando voce sai do jogo. Nao
+    feche ela na mao -- e por causa dela que a Steam continua
+    contando suas horas e a sobreposicao (Shift+Tab) funciona.
+
+    SE PREFERIR NAO MEXER NAS OPCOES DA STEAM: da para abrir o
+    jogo, esperar chegar no menu e dar dois cliques no
+    NG_Tradutor_PTBR.exe. Funciona igual, mas ai e toda vez.
+
+  PASSO 3 - coloque o jogo em ESPANHOL
+
+    Nas opcoes do jogo, deixe o idioma em ESPANHOL (Espanol).
+
+    A traducao ocupa o espaco que era do espanhol, entao o jogo
+    precisa estar nesse idioma para mostrar o portugues. Se
+    deixar em ingles, vai ver ingles.
+
+
+POR QUE O MENU E SEPARADO
+-------------------------
+  Vale entender, porque explica o passo 2.
+
+  O texto do jogo fica num arquivo (o databin), entao da para
+  gravar a traducao nele e pronto.
+
+  Ja o menu esta preso dentro do .exe do jogo, que e lacrado
+  pela protecao da Steam: qualquer byte alterado no arquivo faz
+  o jogo dar erro 51 e nao abrir. A saida foi escrever essa
+  parte na memoria, com o jogo rodando. Nada e gravado em disco
+  e o .exe continua byte a byte identico ao original -- mas,
+  como memoria nao guarda nada depois que o jogo fecha, o
+  tradutor precisa rodar de novo na proxima vez.
+
+
+COMO DESFAZER
+-------------
+  - Rode o instalador de novo e escolha [2] Reverter
+  - Ou, na Steam: botao direito no jogo > Propriedades >
+    Arquivos instalados > Verificar integridade dos arquivos
+
+  O menu nao precisa ser desfeito: ele so existe enquanto o
+  jogo esta aberto. Fechou o jogo, acabou. Se quiser parar de
+  aplicar, apague a linha das Opcoes de inicializacao da Steam.
+
+
+PERGUNTAS QUE VAO APARECER
+--------------------------
+  "Isso da VAC ban?"
+    Nao. O jogo nao tem multiplayer nem anticheat. O .exe nao e
+    modificado, e o databin nao e um arquivo protegido.
+
+  "Por que nao e um mod que carrega sozinho?"
+    Foi tentado. O jogo fecha sozinho, em cerca de um segundo,
+    se QUALQUER dll estranha for carregada dentro dele -- ate
+    uma dll vazia que nao faz absolutamente nada. Ele sai limpo,
+    sem mensagem de erro. Escrever de fora, com o jogo ja
+    aberto, ele aceita sem reclamar. Dai o tradutor separado.
+
+  "O instalador nao acha meu jogo"
+    Arraste o arquivo "databin" para cima dele. O caminho e:
+    ...\steamapps\common\[NINJA GAIDEN Master Collection] NINJA
+    GAIDEN Sigma\databin\databin
+
+  "O jogo foi atualizado e agora nao funciona"
+    O instalador confere o tamanho do databin antes de gravar.
+    Se a Steam atualizar o jogo, ele avisa e nao grava nada,
+    para nao estragar o arquivo.
+
+  "Funciona no Steam Deck?"
+    Esta versao e para Windows. Nao foi testada no Deck.
+
+
+Traducao feita por Wender_sky (Steam).
+Projeto de fa, sem fins lucrativos, sem qualquer vinculo com a
+Koei Tecmo ou Team NINJA.
+
+Bom jogo.
