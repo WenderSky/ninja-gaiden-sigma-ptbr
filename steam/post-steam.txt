@@ -1,0 +1,124 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  TEXTOS CURTOS PARA DIVULGAR                                                 ║
+║  O guia completo da Steam está em guia-steam.txt                             ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+O guia da Comunidade é o que fica achável para sempre pelo buscador da Steam.
+Estes textos curtos são para os lugares onde as pessoas estão hoje: a aba
+Discussões, seu perfil, Reddit, grupos.
+
+Publique o guia primeiro e cole o link dele nos textos abaixo, onde está
+marcado LINK_DO_GUIA.
+
+Links já prontos:
+  download:     https://github.com/WenderSky/ninja-gaiden-sigma-ptbr/releases/latest
+  repositório:  https://github.com/WenderSky/ninja-gaiden-sigma-ptbr
+
+O link de download usa /releases/latest, então continua valendo quando você
+publicar uma v3.1 — não precisa reeditar os posts a cada atualização.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+ 1 · DISCUSSÕES DO JOGO
+   Steam > NINJA GAIDEN Σ > Discussões > Iniciar uma nova discussão
+═══════════════════════════════════════════════════════════════════════════════
+
+TÍTULO:
+[PT-BR] Tradução completa para português do Brasil — texto e menu
+
+CORPO:
+
+Terminei uma tradução completa de NINJA GAIDEN Σ para português do Brasil e
+está de graça para quem quiser.
+
+Traduzido: [b]toda a história[/b] e as cutscenes, itens, descrições, tutoriais,
+pergaminhos de técnica, falas de NPC e de loja — e também o [b]menu inteiro[/b],
+incluindo a tela de título e os cabeçalhos, que são imagem e costumam ficar no
+idioma original nesse tipo de projeto.
+
+Nesta versão o [b]til funciona de verdade[/b]: "Espada do Dragão", "Munições",
+"Interceptação". A fonte do jogo não tem os glifos ã e õ, então eles foram
+desenhados por cima de dois que o português não usa.
+
+[b]O jogo não é modificado.[/b] O executável continua idêntico ao original — o
+menu é aplicado na memória, por um programa separado, porque o arquivo é
+lacrado pela proteção da Steam. Depois de instalar, é só configurar uma linha
+nas Opções de inicialização e esquecer.
+
+Não mexe em saves e não interfere em conquistas.
+
+[b]Guia completo, com instalação passo a passo e FAQ:[/b]
+[url=LINK_DO_GUIA]LINK_DO_GUIA[/url]
+
+[b]Download direto:[/b]
+[url=https://github.com/WenderSky/ninja-gaiden-sigma-ptbr/releases/latest]github.com/WenderSky/ninja-gaiden-sigma-ptbr/releases[/url]
+
+É uma tradução amadora e pode ter algum erro. Se acharem typo ou texto cortado,
+comentem com um print que eu corrijo nas próximas versões.
+
+Projeto de fã, sem relação com a Koei Tecmo.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+ 2 · PERFIL, GRUPO OU COMENTÁRIO RÁPIDO
+═══════════════════════════════════════════════════════════════════════════════
+
+Fiz uma tradução PT-BR completa de NINJA GAIDEN Σ (Master Collection): história,
+itens, pergaminhos e o menu inteiro, inclusive as partes que são imagem. De
+graça, e o jogo não é modificado.
+
+Guia: LINK_DO_GUIA
+Download: https://github.com/WenderSky/ninja-gaiden-sigma-ptbr/releases/latest
+
+
+═══════════════════════════════════════════════════════════════════════════════
+ 3 · REDDIT / FÓRUM  (r/ninjagaiden, r/jogatina, r/games_br)
+═══════════════════════════════════════════════════════════════════════════════
+
+TÍTULO:
+Tradução PT-BR completa de Ninja Gaiden Sigma — texto, menu e a fonte remendada
+para ter til
+
+CORPO:
+
+Terminei uma tradução para português do Brasil de NINJA GAIDEN Σ (Master
+Collection, Steam) e queria compartilhar, junto com duas coisas que achei
+divertidas de resolver.
+
+A primeira: **a fonte do jogo não tem ã nem õ**. A tabela que mapeia byte para
+glifo está dentro do executável cifrado, então não dá para acrescentar
+caractere novo. A saída foi repintar o ä e o ö do atlas da fonte como ã e õ,
+pixel a pixel, e trocar as letras na hora de gravar o texto. O jogo continua
+achando que desenha um trema.
+
+A segunda: **o menu não é texto, é imagem** — e o que é texto está preso no
+executável, que é lacrado pelo SteamStub (mexer no arquivo dá erro 51). As
+faixas do menu foram recortadas letra por letra da própria textura do jogo e
+remontadas em português; o resto é escrito na memória com o jogo rodando.
+
+E aí veio a surpresa: **o jogo fecha sozinho se qualquer DLL estranha for
+carregada nele**. Testei com uma DLL vazia de 12 KB que literalmente não faz
+nada além de devolver TRUE — derruba igual, saindo limpo, sem erro nenhum no
+Visualizador de Eventos. Escrever de fora, com WriteProcessMemory, ele aceita
+numa boa. Por isso a tradução do menu virou um programa separado em vez de um
+mod.
+
+Está tudo documentado no repositório, com as ferramentas, caso sirva para outro
+jogo da mesma casa.
+
+Download e código: https://github.com/WenderSky/ninja-gaiden-sigma-ptbr
+Guia com o passo a passo: LINK_DO_GUIA
+
+
+═══════════════════════════════════════════════════════════════════════════════
+ 4 · LEGENDA CURTA PARA IMAGEM  (Twitter/X, Instagram, Bluesky)
+═══════════════════════════════════════════════════════════════════════════════
+
+NINJA GAIDEN Σ agora fala português. 🥷
+
+História, itens, pergaminhos e o menu inteiro — até a tela de título, que é
+imagem. E com til de verdade: a fonte do jogo não tinha ã nem õ, então eles
+foram desenhados por cima de dois glifos que o português não usa.
+
+De graça, e o jogo não é modificado.
+github.com/WenderSky/ninja-gaiden-sigma-ptbr

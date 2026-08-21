@@ -1,0 +1,310 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  GUIA DA COMUNIDADE STEAM — NINJA GAIDEN SIGMA PT-BR                         ║
+║  Copie cada bloco na seção correspondente do editor de guias.                ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+COMO CRIAR O GUIA
+  Steam > Biblioteca > NINJA GAIDEN Σ > Comunidade > Guias > Criar um guia
+  O editor tem "Adicionar seção" no rodapé. Cada SEÇÃO abaixo vira uma dessas.
+  O índice do guia se monta sozinho a partir dos títulos das seções.
+
+IMAGEM DE MARCA (a Steam pede uma quadrada, mínimo 195x195)
+  Já está pronta, na pasta imagens/ aqui do lado:
+
+    capa-guia-A.png   logo + PT-BR                    ← recomendada
+    capa-guia-B.png   igual, com "TRADUÇÃO" acima
+
+  Ambas em 512x512. A "A" é a mais legível quando a Steam encolhe para
+  195x195 na listagem — as prévias previa-195-A.png e previa-195-B.png
+  mostram exatamente como cada uma fica nesse tamanho.
+
+  As duas usam a arte oficial do próprio jogo (a mesma que a Steam já exibe
+  na sua biblioteca), escurecida para o texto respirar.
+
+COMO INSERIR OS PRINTS
+  1. No jogo, tire as capturas com F12.
+  2. Steam > Exibir > Capturas de tela > Enviar para a Steam (deixe públicas).
+  3. Abra a captura no navegador, clique com o direito na imagem >
+     "Copiar endereço da imagem".
+  4. Cole dentro de [img]ENDEREÇO[/img] onde estiver marcado no texto.
+
+  Onde cada print faz mais efeito está indicado com  ►►  ao longo do guia.
+
+PRINTS QUE VALEM A PENA TIRAR
+  1. Tela de título com "PRESSIONE O BOTÃO START"  (prova que até imagem foi feita)
+  2. Menu principal em português
+  3. Uma descrição de pergaminho de técnica, com acento — "Guilhotina" é boa
+  4. Uma legenda de cutscene
+  5. Tela de opções, mostrando o menu inteiro traduzido
+  6. Um print com "Espada do Dragão" à mostra  (o til de verdade, o destaque da v3)
+
+
+═══════════════════════════════════════════════════════════════════════════════
+ TÍTULO DO GUIA
+═══════════════════════════════════════════════════════════════════════════════
+
+Tradução PT-BR completa — texto, menu e acentuação de verdade
+
+
+═══════════════════════════════════════════════════════════════════════════════
+ DESCRIÇÃO CURTA  (o resumo que aparece na listagem de guias)
+═══════════════════════════════════════════════════════════════════════════════
+
+NINJA GAIDEN Σ inteiro em português do Brasil: história, itens, pergaminhos e o
+menu completo — inclusive as partes que são imagem. Gratuito, e o jogo não é
+modificado.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+ SEÇÃO 1  ·  título: "NINJA GAIDEN Σ em português do Brasil"
+═══════════════════════════════════════════════════════════════════════════════
+
+►► print grande aqui: tela de título com "PRESSIONE O BOTÃO START"
+[img]COLE_O_ENDERECO_DA_IMAGEM_AQUI[/img]
+
+[h1]NINJA GAIDEN Σ em português do Brasil[/h1]
+
+A Master Collection trouxe o jogo de volta para o PC com seis idiomas. Nenhum
+deles é o nosso.
+
+Esta é uma tradução completa e gratuita: [b]toda a história[/b], as cutscenes,
+os itens, as descrições, os tutoriais, os pergaminhos de técnica, as falas de
+NPC e de loja — [b]e o menu inteiro[/b], que é a parte que traduções de fã
+costumam deixar para trás.
+
+Em números: [b]4.813 substituições de texto[/b] no arquivo do jogo, [b]918
+endereços[/b] no executável e [b]39 texturas[/b] redesenhadas.
+
+[b]O jogo não é modificado.[/b] O executável continua byte a byte idêntico ao
+original — o motivo está explicado mais abaixo, e é a parte mais interessante
+do projeto.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+ SEÇÃO 2  ·  título: "O que está traduzido"
+═══════════════════════════════════════════════════════════════════════════════
+
+[h1]O que está traduzido[/h1]
+
+[list]
+[*] [b]História, cutscenes e diálogos[/b] — do começo ao fim
+[*] [b]Itens, descrições e tutoriais[/b]
+[*] [b]Pergaminhos de técnica[/b]
+[*] [b]Salas, portas, placas, diários[/b] e mensagens de mundo
+[*] [b]Falas de NPC e de loja[/b]
+[*] [b]Menu completo[/b] — opções, pausa, missões, classificação, salvar
+[*] [b]Tela de título e cabeçalhos[/b], que são imagem e não texto
+[/list]
+
+►► print: uma descrição de pergaminho de técnica
+[img]COLE_O_ENDERECO_DA_IMAGEM_AQUI[/img]
+
+[h1]E o til, enfim[/h1]
+
+A versão anterior desta tradução escrevia [i]"Dragâo"[/i]. Não era preguiça: a
+fonte do jogo simplesmente [b]não tem[/b] os glifos [b]ã[/b] e [b]õ[/b], e a
+tabela que diz qual byte vira qual letra está dentro do executável cifrado —
+não dá para acrescentar caractere novo.
+
+A saída foi outra: [b]repintar glifos que o português não usa[/b]. O [b]ä[/b] e
+o [b]ö[/b] do atlas da fonte foram redesenhados como [b]ã[/b] e [b]õ[/b], pixel
+a pixel. O jogo continua achando que está desenhando um trema — só que o
+desenho agora é um til.
+
+[table]
+[tr][th]Antes[/th][th]Agora[/th][/tr]
+[tr][td]Espada do Dragâo[/td][td][b]Espada do Dragão[/b][/td][/tr]
+[tr][td]Municôes[/td][td][b]Munições[/b][/td][/tr]
+[tr][td]Interceptaçâo[/td][td][b]Interceptação[/b][/td][/tr]
+[/table]
+
+O mesmo truque deu os ordinais [b]º[/b] e [b]ª[/b].
+
+►► print: algo com "Espada do Dragão" à mostra
+[img]COLE_O_ENDERECO_DA_IMAGEM_AQUI[/img]
+
+
+═══════════════════════════════════════════════════════════════════════════════
+ SEÇÃO 3  ·  título: "Instalação — 1. O texto"
+═══════════════════════════════════════════════════════════════════════════════
+
+[h1]Antes de começar[/h1]
+
+[b]Baixe o pacote:[/b]
+[url=https://github.com/WenderSky/ninja-gaiden-sigma-ptbr/releases/latest]github.com/WenderSky/ninja-gaiden-sigma-ptbr/releases[/url]
+
+São três passos, [b]todos feitos uma vez só[/b]. Depois disso é abrir o jogo
+pela Steam e jogar.
+
+[h1]1. O texto[/h1]
+
+Feche o jogo e a Steam antes.
+
+[olist]
+[*] Extraia o zip numa [b]pasta fixa[/b] — por exemplo [b]C:\Traducao_NG[/b].
+    O passo 2 vai apontar para esse lugar, então ele não pode mudar depois.
+[*] Dois cliques em [b]Instalar_Traducao_PTBR.exe[/b]
+[*] Escolha a opção [b][1] Instalar[/b]
+[/olist]
+
+Se ele não achar o jogo sozinho, [b]arraste o arquivo "databin"[/b] para cima
+dele. O arquivo fica em:
+
+[code]...\steamapps\common\[NINJA GAIDEN Master Collection] NINJA GAIDEN Σ\databin\databin[/code]
+
+[b]O instalador se protege sozinho:[/b] ele confere o tamanho do arquivo do
+jogo antes de gravar. Se a Steam tiver atualizado o jogo, ele avisa e [b]não
+grava nada[/b], em vez de estragar 2,3 GB.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+ SEÇÃO 4  ·  título: "Instalação — 2. O menu"
+═══════════════════════════════════════════════════════════════════════════════
+
+[h1]2. O menu[/h1]
+
+O menu é escrito na memória do jogo, então precisa ser aplicado toda vez que
+você joga. A Steam faz isso sozinha — você configura uma vez e esquece.
+
+[olist]
+[*] Na Steam: [b]botão direito no jogo > Propriedades > aba Geral[/b]
+[*] Em [b]Opções de inicialização[/b], cole a linha abaixo, trocando o caminho
+    pelo lugar onde você extraiu os arquivos. [b]As aspas fazem parte:[/b]
+[/olist]
+
+[code]"C:\Traducao_NG\NG_Tradutor_PTBR.exe" %command%[/code]
+
+[olist]
+[*] Feche a janela de propriedades
+[/olist]
+
+Pronto. Daqui em diante é só abrir o jogo normalmente pela Steam.
+
+►► print: a janela de Opções de inicialização com a linha colada
+[img]COLE_O_ENDERECO_DA_IMAGEM_AQUI[/img]
+
+[h1]O que você vai ver[/h1]
+
+Uma janela preta abre junto com o jogo, escreve [b]"918 de 918 textos"[/b] e
+fica minimizada na barra de tarefas.
+
+[b]Não feche essa janela na mão.[/b] Ela fecha sozinha quando você sai do jogo,
+e é por causa dela que a Steam continua contando suas horas e a sobreposição
+(Shift+Tab) funciona normalmente.
+
+[h1]Se preferir não mexer nas opções da Steam[/h1]
+
+Dá para abrir o jogo, esperar chegar ao menu e dar dois cliques no
+[b]NG_Tradutor_PTBR.exe[/b]. Funciona igual — mas aí é toda vez que for jogar.
+Tanto faz abrir o tradutor antes ou depois do jogo: ele espera.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+ SEÇÃO 5  ·  título: "3. Coloque o jogo em Espanhol"
+═══════════════════════════════════════════════════════════════════════════════
+
+[h1]3. Coloque o jogo em Espanhol[/h1]
+
+Nas opções do jogo, deixe o idioma em [b]ESPANHOL[/b] ([i]Español[/i]).
+
+A tradução ocupa o espaço que era do espanhol — o jogo precisa estar nesse
+idioma para mostrar o português. Se você deixar em inglês, vai ver inglês.
+
+►► print: o menu de idioma do jogo com Espanhol selecionado
+[img]COLE_O_ENDERECO_DA_IMAGEM_AQUI[/img]
+
+
+═══════════════════════════════════════════════════════════════════════════════
+ SEÇÃO 6  ·  título: "Por que o menu é aplicado à parte"
+═══════════════════════════════════════════════════════════════════════════════
+
+[h1]Por que o menu é aplicado à parte[/h1]
+
+Essa é a parte curiosa do projeto, e explica por que a instalação tem dois
+passos em vez de um.
+
+O texto do jogo fica num arquivo, o [b]databin[/b]. Dá para gravar a tradução
+nele e pronto, para sempre.
+
+O menu não. Ele está preso dentro do executável, que é lacrado pelo
+[b]SteamStub[/b], a proteção da Steam: qualquer byte alterado no arquivo faz o
+jogo dar [b]erro 51[/b] e não abrir. Mas as strings do menu estão numa parte do
+executável que [b]não é cifrada[/b] — dá para reescrevê-las [b]na memória[/b],
+com o jogo já rodando. O arquivo continua intacto no disco.
+
+[h1]E por que não é um mod que carrega sozinho?[/h1]
+
+Porque não dá. Foi tentado, e o resultado é curioso o bastante para valer o
+registro:
+
+[b]este jogo fecha sozinho, em cerca de um segundo, se qualquer DLL estranha
+for carregada dentro dele.[/b] Não importa o que a DLL faça — uma DLL vazia de
+12 KB, sem thread, sem escrever em disco, sem tocar em memória, só com um
+[i]DllMain[/i] que devolve TRUE, derruba o jogo do mesmo jeito. E ele sai
+[b]limpo[/b], com ExitProcess, sem mensagem de erro e sem registrar falha
+nenhuma no Windows. É uma verificação deliberada, não um travamento.
+
+Escrever [b]de fora[/b], com o jogo já aberto, ele aceita sem reclamar. Daí o
+tradutor ser um programa separado.
+
+O caminho todo está documentado no repositório, para quem quiser mexer em
+outro jogo da mesma casa:
+[url=https://github.com/WenderSky/ninja-gaiden-sigma-ptbr/blob/master/fonte/LEIA-ME.md]github.com/WenderSky/ninja-gaiden-sigma-ptbr — pasta fonte[/url]
+
+
+═══════════════════════════════════════════════════════════════════════════════
+ SEÇÃO 7  ·  título: "Perguntas frequentes"
+═══════════════════════════════════════════════════════════════════════════════
+
+[h1]Perguntas frequentes[/h1]
+
+[b]Isso dá VAC ban?[/b]
+Não. O jogo não tem multiplayer nem anticheat, o executável não é modificado e
+o databin não é arquivo protegido.
+
+[b]Mexe nos meus saves ou nas conquistas?[/b]
+Não. A tradução não toca em save nenhum e não interfere em conquistas.
+
+[b]Preciso instalar Python ou alguma outra coisa?[/b]
+Não. Os dois programas são nativos e não dependem de nada.
+
+[b]O instalador não acha meu jogo.[/b]
+Arraste o arquivo "databin" para cima dele.
+
+[b]A Steam atualizou o jogo e agora não funciona.[/b]
+O instalador confere o tamanho do databin antes de gravar e avisa se não bater.
+Nesse caso, comente aqui no guia que eu atualizo o pacote.
+
+[b]Funciona no Steam Deck?[/b]
+Esta versão é para Windows e não foi testada no Deck.
+
+[b]Como desinstalo?[/b]
+Rode o instalador de novo e escolha [b][2] Reverter[/b]. Ou, na Steam:
+Propriedades > Arquivos instalados > Verificar integridade dos arquivos.
+Para parar de aplicar o menu, apague a linha das Opções de inicialização.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+ SEÇÃO 8  ·  título: "Download e créditos"
+═══════════════════════════════════════════════════════════════════════════════
+
+[h1]Download[/h1]
+
+[url=https://github.com/WenderSky/ninja-gaiden-sigma-ptbr/releases/latest]github.com/WenderSky/ninja-gaiden-sigma-ptbr/releases[/url]
+
+[h1]Créditos[/h1]
+
+Tradução, ferramentas, edição da fonte e das texturas: [b]Wender_sky[/b].
+
+É uma [b]tradução amadora[/b], feita por um fã, e pode conter erros — algum
+typo, uma frase com sentido levemente diferente, uma quebra de linha
+imperfeita. Achou algo? Comente aqui com um print que eu corrijo.
+
+Projeto sem fins lucrativos, sem qualquer vínculo com a [b]Koei Tecmo[/b] ou o
+[b]Team NINJA[/b]. NINJA GAIDEN e todas as marcas pertencem aos seus
+respectivos donos.
+
+[hr][/hr]
+
+[i]"O Dragão Negro... a espada que sela o mal.
+Enquanto ela existir, a escuridão não vencerá."[/i]
