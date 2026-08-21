@@ -11,15 +11,18 @@ COMO CRIAR O GUIA
 IMAGEM DE MARCA (a Steam pede uma quadrada, mínimo 195x195)
   Já está pronta, na pasta imagens/ aqui do lado:
 
-    capa-guia-A.png   logo + PT-BR                    ← recomendada
-    capa-guia-B.png   igual, com "TRADUÇÃO" acima
+    capa-guia-C.png   arte da Master Collection       ← recomendada
+    capa-guia-A.png   logo sobre o Ryu mascarado
+    capa-guia-B.png   igual à A, com "TRADUÇÃO" acima
 
-  Ambas em 512x512. A "A" é a mais legível quando a Steam encolhe para
-  195x195 na listagem — as prévias previa-195-A.png e previa-195-B.png
-  mostram exatamente como cada uma fica nesse tamanho.
+  Todas em 512x512. A "C" usa a arte oficial da Master Collection, com o
+  crédito numa faixa embaixo, no lugar do "MASTER COLLECTION" — o
+  personagem e o logo ficam inteiros e o texto cai onde o olho já procura
+  o nome do jogo.
 
-  As duas usam a arte oficial do próprio jogo (a mesma que a Steam já exibe
-  na sua biblioteca), escurecida para o texto respirar.
+  As prévias previa-195-*.png mostram como cada uma fica depois que a
+  Steam encolhe para 195x195 na listagem. É nesse tamanho que a escolha
+  se decide.
 
 COMO INSERIR OS PRINTS
   1. No jogo, tire as capturas com F12.
@@ -295,6 +298,11 @@ Para parar de aplicar o menu, apague a linha das Opções de inicialização.
 [h1]Créditos[/h1]
 
 Tradução, ferramentas, edição da fonte e das texturas: [b]Wender_sky[/b].
+
+A tradução se identifica dentro do próprio jogo, em dois lugares: na [b]tela de
+título[/b], ao lado do aviso de copyright, e no [b]fim da rolagem de créditos[/b].
+Nenhum caractere do aviso legal da Koei Tecmo foi removido — na tela de título
+ele foi condensado na horizontal para abrir espaço, e continua completo.
 
 É uma [b]tradução amadora[/b], feita por um fã, e pode conter erros — algum
 typo, uma frase com sentido levemente diferente, uma quebra de linha

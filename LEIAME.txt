@@ -17,6 +17,15 @@ O QUE ESTA TRADUZIDO
     mais com circunflexo. Tambem tem o "o" e o "a" ordinais.
 
 
+A ASSINATURA
+------------
+  A traducao se identifica dentro do jogo em dois lugares: na tela de
+  titulo, ao lado do aviso de copyright, e no fim da rolagem de
+  creditos. Nenhum caractere do aviso legal da Koei Tecmo foi
+  removido -- na tela de titulo ele foi condensado na horizontal para
+  abrir espaco, e continua completo.
+
+
 COMO INSTALAR
 -------------
   Sao tres passos, todos feitos uma vez so.

@@ -56,6 +56,17 @@ O mesmo truque deu os ordinais `º` e `ª`, montados a partir do `o` e do `a` re
 
 ---
 
+## 🖋️ A assinatura no jogo
+
+A tradução se identifica em dois lugares, dentro do próprio jogo:
+
+- **Na tela de título**, ao lado do aviso de copyright
+- **No fim da rolagem de créditos**, depois do aviso da Koei Tecmo e separado dele
+
+Nenhum caractere do aviso legal foi removido. Na tela de título ele foi **condensado na horizontal** para abrir espaço — continua completo e legível, e a assinatura entra ao lado, no mesmo tamanho e no mesmo brilho. Nos créditos, a linha aproveitou parte das 22 linhas em branco que já existiam no fim da rolagem, então nada foi acrescentado que pudesse desalinhá-la.
+
+---
+
 ## 🖼️ O menu é imagem, não texto
 
 A tela de título, os cabeçalhos e as faixas do menu não passam pelo sistema de legendas: são texturas, com as letras desenhadas e com brilho.
