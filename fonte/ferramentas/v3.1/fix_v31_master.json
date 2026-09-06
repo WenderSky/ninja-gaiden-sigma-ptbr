@@ -341,6 +341,54 @@
    18412,
    "Señor, (cp932)",
    "Senhor,"
+  ],
+  [
+   2784,
+   288984,
+   "Acueducto 1",
+   "Aqueduto 1"
+  ],
+  [
+   2784,
+   289072,
+   "Acueducto 2",
+   "Aqueduto 2"
+  ],
+  [
+   2784,
+   289164,
+   "Acueducto 3",
+   "Aqueduto 3"
+  ],
+  [
+   2784,
+   299660,
+   "Acueducto",
+   "Aqueduto"
+  ],
+  [
+   2784,
+   298036,
+   "Acueducto antiguo",
+   "Aqueduto antigo"
+  ],
+  [
+   3450,
+   295160,
+   "Acueducto B1",
+   "Aqueduto B1"
+  ],
+  [
+   3450,
+   295240,
+   "Acueducto B2",
+   "Aqueduto B2"
+  ],
+  [
+   3450,
+   295324,
+   "Acueducto B3",
+   "Aqueduto B3"
   ]
  ],
  "dlg": {
