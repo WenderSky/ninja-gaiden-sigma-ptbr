@@ -5,11 +5,20 @@
 <p align="center">
   <img alt="Idioma" src="https://img.shields.io/badge/idioma-Portugu%C3%AAs%20(BR)-009c3b">
   <img alt="Plataforma" src="https://img.shields.io/badge/plataforma-Windows-1b2838">
-  <img alt="Versão" src="https://img.shields.io/badge/vers%C3%A3o-3.0-c41020">
+  <img alt="Versão" src="https://img.shields.io/badge/vers%C3%A3o-3.1-c41020">
   <img alt="Texto" src="https://img.shields.io/badge/texto-100%25-brightgreen">
   <img alt="Menu" src="https://img.shields.io/badge/menu-100%25-brightgreen">
   <img alt="Uso" src="https://img.shields.io/badge/uso-n%C3%A3o--comercial-important">
 </p>
+
+---
+
+## 🆕 Novidades da v3.1
+
+- **Cutscenes revisadas**: 50 falas que tinham ficado em espanhol (a cena da Ayane no capítulo 1, Rachel, Gamov, Murai, Doku...) agora estão em português, além de 27 nomes de área e mensagens curtas (*Cemitério*, *Vila Hayabusa*, *Armazém*, *Arquivo*...).
+- **Loja do Muramasa**: o menu (*Ferraria / Loja / Sair*), *Superelixir espiritual*, os rótulos *Essência* e *Lançar*.
+- **80 texturas novas**: *Capítulo 1 a 18 Concluído* e *Tudo Completo* no fim de capítulo, *Carregando...*, os títulos de karma (*Caçador Novato, Veterano, Lendário, Experiente, Inexperiente*, *Ninja Maior*, *Mestre Ninja*), *Missão Completa*, *Fim da Partida*, *Sobrevivência* e *Contagem de mortes* — cada uma com as 5 variantes da animação (nítida, cinza, borrada, brilho azul e ciano).
+- Ainda em espanhol: o letreiro de madeira da loja (*Armas y herramientas de MURAMASA*) e o rótulo *Menú*, que não foram localizados nos arquivos.
 
 ---
 
@@ -36,7 +45,7 @@ A tradução ocupa o **slot do idioma Espanhol**. Depois de instalar, **coloque 
 | **Menu, opções, pausa, missões, salvar** | executável | ✅ 100% |
 | **Tela de título e cabeçalhos** | texturas | ✅ 100% |
 
-Em números: **4.813 substituições de texto** em 182 blocos do arquivo do jogo, **918 endereços** no executável (642 textos distintos, cada um aparecendo em vários lugares) e **39 texturas** redesenhadas.
+Em números: **4.938 substituições de texto** em 214 blocos do arquivo do jogo, **924 endereços** no executável (648 textos distintos, cada um aparecendo em vários lugares) e **119 texturas** redesenhadas.
 
 ---
 
@@ -104,7 +113,7 @@ O menu é escrito na memória do jogo, então precisa ser aplicado toda vez que 
 
 Pronto. Daqui pra frente é só abrir o jogo pela Steam.
 
-> 🖥️ **O que você vai ver:** uma janela preta abre junto com o jogo, escreve `918 de 918 textos` e fica minimizada na barra de tarefas. Ela **fecha sozinha** quando você sai do jogo. Não feche na mão — é por causa dela que a Steam continua contando suas horas e a sobreposição (Shift+Tab) funciona normalmente.
+> 🖥️ **O que você vai ver:** uma janela preta abre junto com o jogo, escreve `924 de 924 textos` e fica minimizada na barra de tarefas. Ela **fecha sozinha** quando você sai do jogo. Não feche na mão — é por causa dela que a Steam continua contando suas horas e a sobreposição (Shift+Tab) funciona normalmente.
 
 <details>
 <summary>Se preferir não mexer nas opções da Steam</summary>

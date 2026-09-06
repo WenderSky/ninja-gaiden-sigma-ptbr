@@ -1,8 +1,24 @@
 ============================================================
   TRADUCAO PT-BR - NINJA GAIDEN SIGMA (Master Collection)
-  versao 3 - texto + menu + acentuacao de verdade
+  versao 3.1 - texto + menu + acentuacao + texturas de fim de capitulo
   Windows
 ============================================================
+
+
+NOVIDADES DA VERSAO 3.1
+-----------------------
+  - 50 falas de cutscene que tinham ficado em espanhol (cena da
+    Ayane no capitulo 1, Rachel, Gamov, Murai, Doku...) e 27 nomes
+    de area e mensagens curtas
+  - Loja do Muramasa: menu (Ferraria / Loja / Sair), Superelixir
+    espiritual, rotulos Essencia e Lancar
+  - 80 texturas: "Capitulo N Concluido" e "Tudo Completo",
+    "Carregando...", titulos de karma (Cacador Novato, Veterano,
+    Lendario, Experiente, Inexperiente, Ninja Maior, Mestre Ninja),
+    "Missao Completa", "Fim da Partida", "Sobrevivencia" e
+    "Contagem de mortes"
+  - Ainda em espanhol: o letreiro de madeira da loja e o rotulo
+    "Menu", que nao foram localizados nos arquivos
 
 
 O QUE ESTA TRADUZIDO
@@ -62,7 +78,7 @@ COMO INSTALAR
     Steam normalmente e a traducao entra sozinha.
 
     O que voce vai ver: uma janela preta abre junto com o jogo,
-    escreve "918 de 918 textos" e fica minimizada na barra de
+    escreve "924 de 924 textos" e fica minimizada na barra de
     tarefas. Ela fecha sozinha quando voce sai do jogo. Nao
     feche ela na mao -- e por causa dela que a Steam continua
     contando suas horas e a sobreposicao (Shift+Tab) funciona.
