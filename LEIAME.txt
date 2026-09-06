@@ -12,13 +12,14 @@ NOVIDADES DA VERSAO 3.1
     de area e mensagens curtas
   - Loja do Muramasa: menu (Ferraria / Loja / Sair), Superelixir
     espiritual, rotulos Essencia e Lancar
-  - 80 texturas: "Capitulo N Concluido" e "Tudo Completo",
+  - 117 texturas: "Capitulo N Concluido" e "Tudo Completo",
     "Carregando...", titulos de karma (Cacador Novato, Veterano,
     Lendario, Experiente, Inexperiente, Ninja Maior, Mestre Ninja),
     "Missao Completa", "Fim da Partida", "Sobrevivencia" e
     "Contagem de mortes"
-  - Ainda em espanhol: o letreiro de madeira da loja e o rotulo
-    "Menu", que nao foram localizados nos arquivos
+  - Loja do Muramasa: letreiro de madeira e rotulo Menu; e ainda
+    Novo Recorde, Mortos (contagem), titulo MISSOES, botoes
+    Sim / Nao e rotulo Nivel
 
 
 O QUE ESTA TRADUZIDO
