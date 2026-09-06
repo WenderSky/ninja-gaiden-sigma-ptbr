@@ -305,6 +305,42 @@
    34206,
    "te he fallado...",
    "eu falhei..."
+  ],
+  [
+   2821,
+   12632,
+   "Veo que has llegado lejos.",
+   "Vejo que chegou longe."
+  ],
+  [
+   2874,
+   5536,
+   "No eres tan débil como pensaba.",
+   "Não é tão fraco como pensei."
+  ],
+  [
+   2841,
+   111912,
+   "ya sea santo o pecador,",
+   "seja santo ou pecador,"
+  ],
+  [
+   2841,
+   115412,
+   "Parece que la vas a necesitar.",
+   "Parece que vai precisar."
+  ],
+  [
+   4445,
+   18204,
+   "¿Tiene invitación para la fiesta? (cp932)",
+   "Tem convite para a festa?"
+  ],
+  [
+   4445,
+   18412,
+   "Señor, (cp932)",
+   "Senhor,"
   ]
  ],
  "dlg": {
