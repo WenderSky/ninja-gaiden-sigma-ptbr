@@ -306,7 +306,10 @@ def compacta(px, passo=4):
 
 
 def gravar(num, texturas, modo="teste"):
-    d = bytearray(bloco(num)); g = g1t.parse(bytes(d))
+    """Parte do bloco ATUAL do databin (não do backup), para que gravações sucessivas
+    no mesmo bloco se acumulem. O backup do original é garantido por bloco()."""
+    bloco(num)                                   # garante o backup do original
+    d = bytearray(zlib.decompress(dbx.raw(num))); g = g1t.parse(bytes(d))
     off, comp, unc = dbx.rec(num)
     nc = None
     for passo in (0, 4, 8, 16):
