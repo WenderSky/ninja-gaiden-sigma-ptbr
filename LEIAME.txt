@@ -79,7 +79,7 @@ COMO INSTALAR
     Steam normalmente e a traducao entra sozinha.
 
     O que voce vai ver: uma janela preta abre junto com o jogo,
-    escreve "938 de 938 textos" e fica minimizada na barra de
+    escreve "979 de 979 textos" e fica minimizada na barra de
     tarefas. Ela fecha sozinha quando voce sai do jogo. Nao
     feche ela na mao -- e por causa dela que a Steam continua
     contando suas horas e a sobreposicao (Shift+Tab) funciona.

@@ -45,7 +45,7 @@ A tradução ocupa o **slot do idioma Espanhol**. Depois de instalar, **coloque 
 | **Menu, opções, pausa, missões, salvar** | executável | ✅ 100% |
 | **Tela de título e cabeçalhos** | texturas | ✅ 100% |
 
-Em números: **4.952 substituições de texto** em 224 blocos do arquivo do jogo, **938 endereços** no executável (661 textos distintos, cada um aparecendo em vários lugares) e **156 texturas** redesenhadas.
+Em números: **4.952 substituições de texto** em 224 blocos do arquivo do jogo, **979 endereços** no executável (700 textos distintos, cada um aparecendo em vários lugares) e **156 texturas** redesenhadas.
 
 ---
 
@@ -113,7 +113,7 @@ O menu é escrito na memória do jogo, então precisa ser aplicado toda vez que 
 
 Pronto. Daqui pra frente é só abrir o jogo pela Steam.
 
-> 🖥️ **O que você vai ver:** uma janela preta abre junto com o jogo, escreve `938 de 938 textos` e fica minimizada na barra de tarefas. Ela **fecha sozinha** quando você sai do jogo. Não feche na mão — é por causa dela que a Steam continua contando suas horas e a sobreposição (Shift+Tab) funciona normalmente.
+> 🖥️ **O que você vai ver:** uma janela preta abre junto com o jogo, escreve `979 de 979 textos` e fica minimizada na barra de tarefas. Ela **fecha sozinha** quando você sai do jogo. Não feche na mão — é por causa dela que a Steam continua contando suas horas e a sobreposição (Shift+Tab) funciona normalmente.
 
 <details>
 <summary>Se preferir não mexer nas opções da Steam</summary>
